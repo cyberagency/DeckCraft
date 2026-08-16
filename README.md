@@ -4,7 +4,12 @@ Design your deck, see exactly what you need, and order it — all in one file th
 
 DeckCraft Pro is a tool for anyone who builds or sells wooden decks. You draw the shape, pick your wood and fixings, and it tells you how many packs you need, how much you'll waste, and how to reuse offcuts. No accounts, no cloud, no subscriptions.
 
-Just open `DeckCraft-Pro_v1.0.0.html` in your browser and start.
+Just open [DeckCraft-Pro.html](DeckCraft-Pro.html) in your browser and start.
+
+
+<img src="Screenshots/Loading.png" style="margin:10px">
+
+---
 
 ## What it does
 
