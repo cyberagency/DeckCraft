@@ -48,7 +48,7 @@ Your default is DeckCraft Oak. If you clear storage, it comes back to Oak.
 
 ## How to use
 
-1. Download `DeckCraft-Pro_v1.0.0.html`
+1. Download [DeckCraft-Pro.html](DeckCraft-Pro.html)
 2. Double-click to open in Chrome / Firefox / Edge
 3. Draw your deck on the canvas
 4. Set board size and pattern on the left
@@ -93,7 +93,7 @@ This is the stable release that fixes all the theme issues we had:
 
 ## For your GitHub
 
-- Put `DeckCraft-Pro_v1.0.0.html` and this README in the repo
+- Put `DeckCraft-Pro.html` and this README in the repo
 - That’s it. Users download the HTML and open it.
 
 ---
